@@ -1,7 +1,8 @@
+# samjahrmarkt.github.io
+
 My name is Sam Jahrmarkt, and I am a freshman at Lehigh University. I am currently a math major who is eager to learn more about the applications of data journalism. Outside of school, I enjoy running in my neighborhood and singing both alone and with my acapella group. I opted to take this class because it was an interesting ammolgamation of my interests: statistics, coding, and writing. 
 
 
-# samjahrmarkt.github.io
 ![undegradresidence]
 ![undergradresidence](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/undegrad%20residence.png?raw=true){height="1px" width="1px"}
 
