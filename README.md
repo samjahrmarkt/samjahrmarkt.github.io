@@ -22,4 +22,3 @@ For more information on voter turnout demographics visit: http://www.electprojec
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1YFP7QC7Tr8tAfD7sGbRZp_vvoVj6pgUcN3Cn5MQ2bEk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LzPe_-594t21EyuCZguq2ldY9GuhW3FYN5NyAvk_Ev4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
