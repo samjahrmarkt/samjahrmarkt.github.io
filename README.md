@@ -22,6 +22,7 @@ The timeline displays the story of Lehigh and Lafayette's notorious rivalry. Beg
 NBCUniversal Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LzPe_-594t21EyuCZguq2ldY9GuhW3FYN5NyAvk_Ev4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+NBCUniversal Media, the American mass media and entertainment conglomerate owned by Comcast, began its industry takeover in 1910. The network has transformed as media has evolved through dedication and innovation. Whether it was colorizing their media or transitioning from TV to radio, NBC consistently revolutionized the industry, setting the bar high for other platforms of entertainment. For more information on NBC visit their website: https://www.nbcuniversal.com 
 
-
+Lehigh Undergraduate 
 ![undergrad](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/undergrad.png?raw=true)
