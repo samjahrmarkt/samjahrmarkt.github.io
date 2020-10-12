@@ -24,5 +24,8 @@ NBCUniversal Timeline
 
 NBCUniversal Media, the American mass media and entertainment conglomerate owned by Comcast, began its industry takeover in 1910. The network has transformed as media has evolved through dedication and innovation. Whether it was colorizing their media or transitioning from TV to radio, NBC consistently revolutionized the industry, setting the bar high for other platforms of entertainment. For more information on NBC visit their website: https://www.nbcuniversal.com 
 
-Lehigh Undergraduate 
+Lehigh Undergraduate Enrollment
+
 ![undergrad](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/undergrad.png?raw=true)
+
+
