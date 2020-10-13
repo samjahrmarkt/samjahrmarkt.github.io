@@ -30,5 +30,5 @@ Lehigh Undergraduate Enrollment
 
 In Fall 2019, the Office of Institutional Research and Strategic Analysis displayed data regarding students' placement in schools within Lehigh. This data displays that the most popular school is the College of Arts and Sciences, representing 36.6% of the population. Though the Engineering school is the most esteemed esteemed college within Lehigh, it holds almost 10% less than Arts and Sciences. The College of Business follows Engineerng, representing 24.8% of the population. The other 11.5% of undergraduate students are mainly in intercollegiate programs. These mainly include interdisciplinary programs such as Computer Science and Business, Integrated Business and Engineering, and Integrated Degree in Engineering, Arts & Sciences. For more information on Lehigh's demographics/general data, visit Lehigh's Office of Institutional Research and Strategic Analysis on the Lehigh website. 
 
-
+![population](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/undergrad.png?raw=true)
 
