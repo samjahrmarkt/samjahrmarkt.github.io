@@ -30,5 +30,9 @@ Lehigh Undergraduate Enrollment
 
 In Fall 2019, the Office of Institutional Research and Strategic Analysis displayed data regarding students' placement in schools within Lehigh. This data displays that the most popular school is the College of Arts and Sciences, representing 36.6% of the population. Though the Engineering school is the most esteemed esteemed college within Lehigh, it holds almost 10% less than Arts and Sciences. The College of Business follows Engineerng, representing 24.8% of the population. The other 11.5% of undergraduate students are mainly in intercollegiate programs. These mainly include interdisciplinary programs such as Computer Science and Business, Integrated Business and Engineering, and Integrated Degree in Engineering, Arts & Sciences. For more information on Lehigh's demographics/general data, visit Lehigh's Office of Institutional Research and Strategic Analysis on the Lehigh website. 
 
-![population](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/undergrad.png?raw=true)
+Most Populated Countries 
+
+![population](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/population.png?raw=true)
+
+The U.S. Census Bureau displays the nations with the highest populations as of July 1st, 2020. Dominating the first and second of this list are China and India with 1,394,015,977 and 1,326,093,247, respectively. United States distantly follows with 329,877,505 people. The Census is mandated by the Constitution and conducted by the U.S. Census Bureau; everyone living in the United States is required by law to be counted in the 2020 Census. Though the site does not explicitly describe the method at which they recieved this data in other nations, one could assume its a similar method of formation. The U.S. population clock is based on a series of short-term projections for the resident population of the United States. To learn more about the U.S. Census/U.S. demographics, visit: https://www.census.gov. For more international population information, visit the U.S. Census Bureau's international database.
 
