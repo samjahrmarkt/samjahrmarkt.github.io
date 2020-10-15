@@ -36,3 +36,8 @@ Most Populated Countries
 
 The U.S. Census Bureau displays the nations with the highest populations as of July 1st, 2020. Dominating the first and second of this list are China and India with 1,394,015,977 and 1,326,093,247, respectively. United States distantly follows with 329,877,505 people. The Census is mandated by the Constitution and conducted by the U.S. Census Bureau; everyone living in the United States is required by law to be counted in the 2020 Census. Though the site does not explicitly describe the method at which they recieved this data in other nations, one could assume its a similar method of formation. The U.S. population clock is based on a series of short-term projections for the resident population of the United States. To learn more about the U.S. Census/U.S. demographics, visit: https://www.census.gov. For more international population information, visit the U.S. Census Bureau's international database.
 
+Percentages of Students in Each of Lehigh's Three Undergraduate Colleges 
+
+![undergradline](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/undergrad%20line.png?raw=true)
+
+
