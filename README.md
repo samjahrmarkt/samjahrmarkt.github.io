@@ -40,4 +40,5 @@ Percentages of Students in Each of Lehigh's Three Undergraduate Colleges
 
 ![undergradline](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/undergrad%20line.png?raw=true)
 
+Annually, in the fall, Lehigh's Office of Institutional Research and Strategic Analysis releases the percentage of students in each of Lehigh's undergraduate colleges. This chart focuses on the most popular three colleges at Lehigh: Arts and Sciences, Business, and Engineering. Though these remain the most prominent three schools within Lehigh, the percentage of attendance at each school fluctuates annually. Arts and Science recently is trending upward, increasing steadily from 31.7% in 2016 to 36.6% in 2019. Engineering, marketed as Lehigh's most acclaimed college decreased by 5% in one year. The college has continued on this trend, reaching 27.10%. Business has continued a steady trend, with its margins remaining between 1%. For more data on Lehigh's demographics, visit Lehigh's Office of Institutional Research and Strategic Analysis website.
 
