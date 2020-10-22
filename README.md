@@ -47,3 +47,7 @@ Global Land-Ocean Temperature Index
 ![nasa](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/nasa.png?raw=true)
 
 This graph illustrates the change in global surface temperature from 2000 to 2019 according to NASA's Goddard Institute for Space Studies. The dots display the annual mean temperature while the dark blue line exhibits the lowess smoothing line: the line through a timeplot or scatter plot to more clearly display the relationship between two variables. The line graph shows the gradual increase of the global land-ocean temperature starting from .4°C in 2000 to .99°C in 2019. Although the general trend of global temperature is a gradual increase, the year 2016 ranks as the warmest on record; the annual mean of 2016 reaches 1.02°C, which is higher than the global surface temperature 2019 (.99°C). For more information on the global surface temperature or global climate change visit: https://climate.nasa.gov 
+
+2019 World's Top 20 Cycling Cities
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1IfcAJvOu6_9oVB0ugeNWYqeDiqgKZuYt" width="640" height="480"></iframe>
+
