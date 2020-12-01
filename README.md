@@ -90,6 +90,6 @@ These two graphs represent  metrics for hotspot states from June 14 to June 28, 
 
 
 
-
 <b>NYC After School Clubs</b>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JH7deHIfKg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
