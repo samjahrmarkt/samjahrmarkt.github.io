@@ -88,12 +88,7 @@ Both bar charts display data from a survey conducted on Lehigh students regardin
 
 
 
-
-
-
-
-
-## <b>Metrics for Hotspot States from June 14 to June 28, 2020</b>
+<b>Metrics for Hotspot States from June 14 to June 28, 2020</b>
 <div class='tableauPlaceholder' id='viz1605139985209' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;J2&#47;J2DMCWPBT&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;J2DMCWPBT' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;J2&#47;J2DMCWPBT&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1605139985209');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='1016px';vizElement.style.height='991px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
   
 These two graphs represent  metrics for hotspot states from June 14 to June 28, 2020 according to the Henry J. Kaiser Family Foundation. The first focuses on the positivity rate while the other centers around hospitilization rates. While four of the states are reporting fewer than 40 daily cases, 16 are reporting 400 or more new cases per day, and nine states have positivity rates above 10%. Though correlated, a state with a high positivity rate does not necessarily mean hospitalization rates will be high as well. For example, California with a relatively low positivity rate of 6%, their rolling average number of hospitalizations was the highest of any hotspot state at 60. This disparity is mainly because of California's high population; positivity rate is a percentage therefore is taking into account population size whereas hospitalization rates is a rolling number. For more information on hotspot states during this two week period visit:[Where are the COVID-19 Hotspots?](https://www.kff.org/coronavirus-covid-19/issue-brief/where-are-the-covid-19-hotspots-tracking-state-outbreaks/) For general/current information visit the CDC website.
