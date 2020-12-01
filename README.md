@@ -2,11 +2,10 @@
 
 My name is Sam Jahrmarkt, and I am a freshman at Lehigh University. I am currently a math major who is eager to learn more about the applications of data journalism. Outside of school, I enjoy running in my neighborhood and singing both alone and with my acapella group. I opted to take this class because it was an interesting ammolgamation of my interests: statistics, coding, and writing. 
 
-![intro]
 ![intro](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/intro.png?raw=true) 
 
 <b>Voter Turnout By Age</b>
-![undergradresidence](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/VOTER%20TURNOUT.png?raw=true)
+![VOTER TURNOUT](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/VOTER%20TURNOUT.png?raw=true)
 
 Overall voter turnout rates provided on this site cannot reveal who among the electorate voted, therefore, the voter turnout data publicized was provided through surveys (census). The United States Elections represented on their website voter turnout demographics in the past few elections through individual line graphs. I was especially interested in comparing the age turnout in the primary and general elections. I anticapated low percantage turnouts in Gen Z, yet, I did not expect the 11% difference in voter turnout between the two elections. Conversely, voter turnout for citizens 60+ was extremely high and differed less between the two elections (8% difference). This data begs an important question for the upcoming election; will voter turnout stick to this trend or will national uproar propell participation in this election. For more information on voter turnout demographics visit: http://www.electproject.org/home/voter-turnout/demographics or the United States Election Project
 
