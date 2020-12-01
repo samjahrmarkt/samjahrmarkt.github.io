@@ -1,5 +1,4 @@
- 
-My work in my freshman seminar class: <b>From Stats to Stories: Introduction to Data Journalism</b>  ;)
+ My work in my freshman seminar class: <b>From Stats to Stories: Introduction to Data Journalism</b>  ;)
 
 My name is Sam Jahrmarkt, and I am a freshman at Lehigh University. I am currently a math major who is eager to learn more about the applications of data journalism. Outside of school, I enjoy running in my neighborhood and singing both alone and with my acapella group. I opted to take this class because it was an interesting ammolgamation of my interests: statistics, coding, and writing
  
