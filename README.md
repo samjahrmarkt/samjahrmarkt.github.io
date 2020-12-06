@@ -1,6 +1,6 @@
 ![profile](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/profile.jpg?raw=true)
 
-My name is Sam Jahrmarkt, and I am a freshman at Lehigh University. I am currently a math major who is eager to learn more about the applications of data journalism. Outside of school, I enjoy running in my neighborhood and singing both alone and with my acapella group. I opted to take this class because it was an interesting ammolgamation of my interests: statistics, coding, and writing
+My name is Sam Jahrmarkt, and I am a freshman at Lehigh University. I am currently a math major who is eager to learn more about the applications of data journalism. Outside of school, I enjoy running in my neighborhood and singing both alone and with my acapella group. I opted to take this class because it was an interesting ammolgamation of my interests: statistics, coding, and writing.
  
  
  My work in my freshman seminar class: <b>From Stats to Stories: Introduction to Data Journalism</b>  ;)
@@ -19,7 +19,7 @@ ________________________________________________________________________________
 # Canva
 ## Voter Turnout By Age
 ![VOTER TURNOUT](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/VOTER%20TURNOUT.png?raw=true)
-Overall voter turnout rates provided on this site cannot reveal who among the electorate voted, therefore, the voter turnout data publicized was provided through surveys (census). The United States Elections represented on their website voter turnout demographics in the past few elections through individual line graphs. I was especially interested in comparing the age turnout in the primary and general elections. I anticapated low percantage turnouts in Gen Z, yet, I did not expect the 11% difference in voter turnout between the two elections. Conversely, voter turnout for citizens 60+ was extremely high and differed less between the two elections (8% difference). This data begs an important question for the upcoming election; will voter turnout stick to this trend or will national uproar propell participation in this election. For more information on voter turnout demographics visit: [Voter Turnout Demographics](http://www.electproject.org/home/voter-turnout/demographics) or the United States Election Project.
+On their website, the United States Election project represented voter turnout demographics in the past few elections through individual line graphs. Overall voter turnout rates provided on this site cannot reveal who among the electorate voted, thus the voter turnout data publicized was provided through surveys (census). I was especially interested in comparing the age turnout in the primary and general elections. I anticapated low percantage turnouts in Gen Z, yet, I did not expect the 11% difference in voter turnout between the two elections. Conversely, voter turnout for citizens 60+ was extremely high and differed less between the two elections (8% difference). This data begs an important question for the upcoming election; will voter turnout stick to this trend or will national uproar propell participation in this election. For more information on voter turnout demographics visit: [Voter Turnout Demographics](http://www.electproject.org/home/voter-turnout/demographics) or the United States Election Project.
 
 
 
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 # TimelineJS
 ## NBCUniversal Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LzPe_-594t21EyuCZguq2ldY9GuhW3FYN5NyAvk_Ev4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-NBCUniversal Media, the American mass media and entertainment conglomerate owned by Comcast, began its industry takeover in 1910. The network has transformed as media has evolved through dedication and innovation. Whether it was colorizing their media or transitioning from TV to radio, NBC consistently revolutionized the industry, setting the bar high for other platforms of entertainment. For more information on NBC visit their website: [NBCUniversal](https://www.nbcuniversal.com)
+NBCUniversal Media, the American mass media and entertainment conglomerate owned by Comcast, began its industry takeover in 1910. The network has blossumed into a multibillion dollar company that has evolved the media industy through dedication and innovation. Whether it was colorizing their content or transitioning from TV to radio, NBC consistently revolutionized the industry, setting the bar high for other platforms of entertainment. For more information on NBC visit their website: [NBCUniversal](https://www.nbcuniversal.com)
 
 
 
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 ## Most Populated Countries
 ![population](https://github.com/samjahrmarkt/samjahrmarkt.github.io/blob/master/population.png?raw=true)
-The U.S. Census Bureau displays the nations with the highest populations as of July 1st, 2020. Dominating the first and second of this list are China and India with 1,394,015,977 and 1,326,093,247, respectively. United States distantly follows with 329,877,505 people. The Census is mandated by the Constitution and conducted by the U.S. Census Bureau; everyone living in the United States is required by law to be counted in the 2020 Census. Though the site does not explicitly describe the method at which they recieved this data in other nations, one could assume its a similar method of formation. The U.S. population clock is based on a series of short-term projections for the resident population of the United States. To learn more about the U.S. Census/U.S. demographics, visit: https://www.census.gov. For more international population information, visit the U.S. Census Bureau's international database.
+The U.S. Census Bureau displays the nations with the highest populations as of July 1st, 2020. The Census is mandated by the Constitution and conducted by the U.S. Census Bureau; everyone living in the United States is required by law to be counted in the Census, annually. Dominating the first and second of this list are China and India with popoulations of 1,394,015,977 and 1,326,093,247, respectively. The United States distantly follows with 329,877,505 people. Though the site does not explicitly describe the method at which they recieved this data in other nations, one could assume its a similar method of formation to the U.S. To learn more about the U.S. Census/U.S. demographics, visit: https://www.census.gov. For more international population information, visit the U.S. Census Bureau's international database.
 
 
 
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 
 ## 10 Most Visited Parks in 2019
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1upREhDvSX2tVP2mmei_51BRduo6NwLSS" width="640" height="480"></iframe>
-This map, created with google maps, represents the 10 most visited national parks in 2019, according to the National Park Service. Within one year, the national parks had a total of 327,516,619 recreation visits. The National Park Service oversees over 400 national parks across the country, all of which containing different shapes, sizes, and purpose. This map includes all parks that are administered by the US Government, thus many of these landmarks are not traditionally considered "parks": parkways and monuments. The Golden Gate National Recreation Area was the most visited park in 2019, holding 15 million recreational visits. For the article displaying the "big 10" national parks visit: [10 Most Visited National Parks in 2010](https://www.nps.gov/aboutus/visitation-numbers.htm) To learn more in general about National Parks visit: [National Parks Service](https://www.nps.gov)
+This map, created with google maps, represents the 10 most visited national parks in 2019, according to the National Park Service. Within one year, the national parks had a total of 327,516,619 recreation visits. The National Park Service oversees over 400 national parks across the country, all of which entirely unique. This map includes all parks that are administered by the US Government, thus many of these landmarks are not traditionally considered "parks": parkways and monuments. The Golden Gate National Recreation Area was the most visited park in 2019, holding 15 million recreational visits. For the article displaying the "big 10" national parks visit: [10 Most Visited National Parks in 2010](https://www.nps.gov/aboutus/visitation-numbers.htm) To learn more in general about National Parks visit: [National Parks Service](https://www.nps.gov)
 
 
 
